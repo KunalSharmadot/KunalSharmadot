@@ -34,25 +34,6 @@ I'm continuously improving my development skills through hands-on projects, prob
 
 ---
 
-## 🚀 Featured Projects
-
-### 💬 Chat Application
-A full-stack chat application focused on real-time communication, user authentication, and modern UI.
-
-**Tech:** React.js | Node.js | Express.js | MongoDB
-
-### 📌 More Projects
-I'm working towards building more advanced applications that demonstrate practical software development skills.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalSharmadot&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSharmadot&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🎯 Current Learning Goals
 
